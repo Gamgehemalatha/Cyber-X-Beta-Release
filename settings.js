@@ -1,4 +1,4 @@
-//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
+සහ//CYBER-X  DARKALPHAXTEAM ◎◎◎ https://github.com/darkalphaxteam\\
 //══════════════THANKS FOR CHEEMS BOT MD (DGNEON)═ALL THE CREADITS GOES TO HIM═════════════\\
 // EXAM ඉවර උනාම ඉතුරු ටික දෙන්නම් 😓😓😓 GOOD LUCK ALL\\
 const fs = require('fs')
@@ -91,7 +91,7 @@ global.autorep = []
 global.ntilink = []
 
 //OTHERS
-global.sessionName = 'session'
+global.sessionName = 'https://github.com/Gamgehemalatha/Cyber-X-Beta-Release'
 global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
