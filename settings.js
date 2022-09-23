@@ -91,7 +91,7 @@ global.autorep = []
 global.ntilink = []
 
 //OTHERS
-global.sessionName = 'https://github.com/Gamgehemalatha/Cyber-X-Beta-Release'
+global.sessionName = 'session'
 global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
